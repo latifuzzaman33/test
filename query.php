@@ -3,7 +3,7 @@
 custom post query with pagination and generate a div every three loop
 */
 get_header();
-
+This is Whole 
 ?>
 			
 			<section class="TeamOverall">
